@@ -1,3 +1,9 @@
+# Developed By : NIRANJAN KUMAR G S 
+# From : INDIA
+# Email : niranjan4@outlook.in
+# Updated date : 12/Dec/2017
+
+
 from multiprocessing import Process
 import os ,time, threading,sys
 from datetime import datetime
@@ -29,7 +35,7 @@ def four():
 def naming():
     global name
     name='niranjan'
-    #print name
+    print name
 
                 
 if __name__ == '__main__':
