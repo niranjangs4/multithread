@@ -1,4 +1,4 @@
-# multithread in python2 or python3
+# Multithread in python2 or python3
 best example to understand multithread in python
 Oops script has 4 Functions
 Concept is to Execuite Functions in Parallel
