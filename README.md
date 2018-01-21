@@ -1,12 +1,6 @@
 # Multithread 
 ```
-best example to understand multithread in python script has 4 Functions
-Concept is to Execuite Functions in Parallel
-run like
-```
-# Addition-module
-```
-Addition of N-number of values
+best example to understand multithread in python 
 ```
 ## Getting Started
 
@@ -27,25 +21,30 @@ A step by step have to get a development env running
 step 1. python2 or python3
 ```
 ## Running the Script
-```
+
 Enter terminal or console windows/Linux/mac.  
 Example:
 
 Run 1 function
+```
  Example : "python  multiprocess.py one"
- 
-# Run 2 Function Parallel
+ ```
+Run 2 Function Parallel
+```
   Example : "python  multiprocess.py one two"
-
-# Run 3 Function Parallel
+```
+Run 3 Function Parallel
+```
   Example : "python  multiprocess.py one two three"
+```
 
-# Run 4 Function Parallel
+Run 4 Function Parallel
+```
   Example : "python  multiprocess.py one two three four"
 ```
 # How it works
 ```
-best example to understand multithread in python script has 4 Functions
+Script has 4 Functions
 Concept is to Execuite Functions in Parallel
 run like
 ```
