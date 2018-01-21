@@ -53,16 +53,15 @@ if __name__ == '__main__':
     elif 'one' and 'two' and 'three' in sys.argv and len(sys.argv) == 4:
 
         threading.Thread(target=first).start()
-	    threading.Thread(target=second).start()        
-	    threading.Thread(target=three).start()
+	threading.Thread(target=second).start()        
+	threading.Thread(target=three).start()
 	
     elif 'one' and 'two' and 'three' and 'four' in sys.argv and len(sys.argv) == 5:
 
         threading.Thread(target=first).start()
         threading.Thread(target=second).start()
-	    threading.Thread(target=three).start()
-	    threading.Thread(target=four).start()
+	threading.Thread(target=three).start()
+	threading.Thread(target=four).start()
     else:
 
         print"no arguments passed"
-3
